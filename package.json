@@ -1,0 +1,22 @@
+{
+  "name": "spa_vanilla-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/JoelGChacon/spa_vanilla-javascript.git"
+  },
+  "author": "Joel G Chacon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/JoelGChacon/spa_vanilla-javascript/issues"
+  },
+  "homepage": "https://bitbucket.org/JoelGChacon/spa_vanilla-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
